@@ -39,7 +39,7 @@ This project is a Virtual Reality (VR) simulation designed to assist medical stu
 ### Steps
 
 #### Clone the repository
-- git clone https://github.com/YOUR_USERNAME/vr-for-medical-surgery-and-operations.git
+- git clone https://github.com/Yashgit1203/vr-for-medical-surgery-and-operations.git
 
 #### Open the project in Unity
 - Open Unity Hub → Add project → Select the cloned folder
